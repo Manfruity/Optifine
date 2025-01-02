@@ -1,6 +1,5 @@
-# Optifine
-Optifine.net Checker
+# Optifine.net Checker
 
-Bypass Cloudflare using seleniumbase
+Bypass Cloudflare, no proxies or captcha needed
 
-Put mail:pass in accounts.txt same directory
+Put accounts in accounts.txt same directory mail:pass
