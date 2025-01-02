@@ -1,4 +1,4 @@
-# Optifine.net Checker
+# Optifine.net Account Checker
 
 Bypass Cloudflare, no proxies or captcha needed
 
